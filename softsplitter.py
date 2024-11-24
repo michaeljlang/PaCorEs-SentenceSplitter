@@ -1,3 +1,6 @@
+import re
+from sentence_splitter import SentenceSplitter
+
 def softsplit(text,lang):
 
     """
